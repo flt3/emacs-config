@@ -1,0 +1,10 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("main.js"
+ (filename . "~/Documents/projects/node_loops/main.js")
+ (front-context-string . "document.addEven")
+ (rear-context-string . "log(data);\n});\n\n")
+ (position . 240))
+)
