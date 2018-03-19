@@ -1,0 +1,53 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/none/Documents/projects/node/" . "css/")
+ ("/home/none/.emacs.d/elpa/" . "s-20180227.51/")
+ ("/home/none/.emacs.d/" . "elpa/")
+ ("/home/none/" . ".emacs.d/")
+ ("/home/" . "none/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/none/Documents/projects/node/"
+ "/home/none/Documents/projects/node/css/"
+ "/home/none/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "main.js"
+ "main.css"
+ "init.el"
+ "labas.txt"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/none/.emacs.d/" (23214 46525 340457 277000) "ede-projects.el" "bookmarks" "#init.el#" ".emacs.desktop" "elpa/" "auto-save-list/" "init.el~" "../" "ido.last" "el_packages/" "games/" "ac-comphist.dat" ".emacs.desktop.lock" "tutorial/" ".git/" "url/" "ido.last~" "init.el" "./")
+
+ ("/home/none/Documents/projects/node/" (23214 43932 585022 1000) "js.json~" "test.js" "something.html" "labas.txt" "../" ".#labas.txt" ".#something.css" "js.json" "#something.css#" "shabang.js" "index.html~" "#testas.scss#" "#something.html#" ".#testas.scss" "#labas.txt#" "css/" "server.js" "shabang.js~" "bb.txt" "something.html~" "index.html" "testas.txt" ".#index.html" "main.js" "#main.js#" "#index.html#" "./" "#shabang.js#")
+
+ ("/home/none/Documents/projects/node/css/" (23182 37157 462218 946000) "../" "main.css" "./")
+
+ ("/home/none/.emacs.d/elpa/s-20180227.51/" (23214 21072 733750 839000) "s-pkg.el" "s.el" "../" "s-autoloads.el" "./")
+
+ ("/home/none/.emacs.d/elpa/" (23214 19133 358684 526000) "ace-window-readme.txt" "json-mode-0.1.signed" "auto-indent-mode-readme.txt" "s-readme.txt" "darkmine-theme-readme.txt" "auto-complete-20170124.1845/" "js2-mode-readme.txt" "treemacs-readme.txt" "../" "json-mode-0.1/" "ergoemacs-mode-readme.txt" "s-20180227.51/" "spacemacs-theme-20180309.1335/" "minimal-theme-readme.txt" "json-mode-readme.txt" "company-readme.txt" "helm-emmet-readme.txt" "edit-at-point-readme.txt" "archives/" "ac-emmet-readme.txt" "tern-auto-complete-readme.txt" "dash-readme.txt" "gnupg/" "ac-js2-readme.txt" "minimap-readme.txt" "company-shell-readme.txt" "0blayout-readme.txt" "js2-mode-20180301.signed" "./" "popup-20160709.729/" "html5-schema-readme.txt" "js2-mode-20180301/" "easy-kill-readme.txt")
+
+ ("/home/none/.emacs.d/auto-save-list/" (23214 3038 337504 856000) "../" ".saves-29317-nonepc~" ".saves-2519-nonepc~" ".saves-14557-nonepc~" "./")
+
+ ("/home/none/node/" (23131 13696 264191 729000) "README.md" "../" "lib/" "share/" "CHANGELOG.md" "bin/" "etc/" "LICENSE" "include/" "./")
+
+ ("/home/" (22417 49717 64531 697000) "none/" "../" "./")
+
+ ("/home/none/" (23214 2816 514154 59000) ".emacsBACKUP" ".steam/" ".npm/" ".vscode/" ".thumbnails/" "testas/" ".profile" ".swp" ".swo" "Pictures/" ".java/" ".nano/" "output_/" ".android/" ".thunderbird/" ".xscreensaver" ".ICEauthority" ".dbus/" ".sudo_as_admin_successful" "../" ".bash_logout" ".emacs.save" ".bashrc" ".pulse-cookie" "Documents/" "vim_mano/" ".xsession-errors" ".gtkrc-2.0" ".cache/" ".emacs.d/" "snap/" "atom-config/" ".gnome2_private/" ".bash_history" ".nvidia-settings-rc" ".purple/" ".Xauthority" ".macromedia/" ".gnupg/" ".mozilla/" "untitled.blend" ".godot/" "Public/" ".dmrc" "Downloads/" ".steampid" ".gitconfig" "Music/" "Desktop/" ".adobe/" "fontconfig/" ".fltk/" ".sqlite_history-" ".kde/" ".config/" ".gconf/" ".gnome2/" "Programs/" ".viminfo" ".emacs~" ".subversion/" ".atom/" ".xsession-errors.old" ".nv/" ".local/" ".python_history" ".node_repl_history" ".Xdefaults" "./" "Templates/" ".steampath" "Videos/" ".pki/" "node/")
+
+ ("/home/none/Documents/" (23212 54331 474049 708000) "projects/" "xorg.conf.backup" "xorg.conf.07112016" "komandos.sh" "../" "xorg.conf.nvidia-xconfig-original" "#komandos.sh#" "http.log" "xorg.conf" "./")
+
+ ("/home/none/Documents/projects/" (23212 50684 286855 466000) "git_remote/" "godot/" "labas/" ".emacs.desktop" "t1/" "practice1/" "remote/" "u1/" "auto/" "../" "firefox-addons/" "html-learning/" "git-export/" "html-searchField/" "flt3.github.io/" "ajax-test/" "git_test/" "geany/" "node_prac/" "testtingfield/" "node_loops/" "testas.txt" "curling/" "u2/" "./" "emacs/" "node/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

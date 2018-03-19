@@ -2,66 +2,102 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Sat Mar 17 23:53:30 2018
+;; Created Mon Mar 19 20:23:25 2018
 ;; Desktop file format version 208
 ;; Emacs version 25.3.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (23213 36442 654029 357000) (desktop . "208") "none@nonepc" nil nil ((((font-backend xft x) (font . "-PfEd-DejaVu Sans Mono-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#655370") (background-color . "#fbf8ef") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . right) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 13) (scroll-bar-height . 0) (alpha) (fullscreen . fullheight) (display-type . color) (background-mode . light) (cursor-color . "#100a14") (sticky) (environment) (frameset--id . "BAAB-B05B-70C0-BA14") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0.0") (explicit-name) (user-size . t) (visibility . t) (height . 64) (width . 101) (left . 840) (top . 34)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 8) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 60) (min-pixel-width . 80) (min-pixel-height-ignore . 45) (min-pixel-width-ignore . 64) (min-pixel-height-safe . 15) (min-pixel-width-safe . 16)) leaf (pixel-width . 837) (pixel-height . 945) (total-width . 104) (total-height . 63) (normal-height . 1.0) (normal-width . 1.0) (buffer ".emacs" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 2) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 1932) (start . 711))))])
+(setq desktop-saved-frameset [frameset 1 (23216 29 257940 572000) (desktop . "208") "none@nonepc" nil nil ((((font-backend xft x) (font . "-PfEd-DejaVu Sans Mono-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "black") (background-color . "white") (mouse-color . "black") (border-color . "#ECEFF1") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . right) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 13) (scroll-bar-height . 0) (alpha) (fullscreen . fullheight) (display-type . color) (background-mode . light) (cursor-color . "black") (sticky) (environment) (frameset--id . "BAAB-B05B-70C0-BA14") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0.0") (explicit-name) (user-size . t) (visibility . t) (height . 64) (width . 101) (left . 840) (top . 34)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 8) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 60) (min-pixel-width . 80) (min-pixel-height-ignore . 45) (min-pixel-width-ignore . 64) (min-pixel-height-safe . 15) (min-pixel-width-safe . 16)) leaf (pixel-width . 837) (pixel-height . 945) (total-width . 104) (total-height . 63) (normal-height . 1.0) (normal-width . 1.0) (buffer "*Custom Themes*" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 2) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
-(setq search-ring nil)
+(setq search-ring '("theme" "css" "scss" "expand" "console.log" "cons" "console" "some" "labas" "labassomla" "labassoml" "labassom" "labas" "s"))
 (setq regexp-search-ring nil)
 (setq register-alist nil)
-(setq file-name-history '("~/.emacs" "~/Documents/projects/node/testas.scss" "~/Documents/projects/node/something.css" "~/.emacs" "~/.emacs.d/elpa/emmet-mode.el" "~/.emacs" "~/Documents/projects/node/" "~/Documents/projects/node/shabang.js" "~/.emacs" "~/Documents/projects/node/index.html"))
+(setq file-name-history '("~/.emacs.d/init.el" "/home/none/Documents/projects/node/main.js" "/home/none/.profile" "/home/none/.emacs.d/init.el" "~/.emacs.d/init.el" "~/Documents/projects/node/naujas.scss" "/home/none/Documents/projects/node/#sas.scss#" "~/.emacs.d/init.el" "~/Documents/projects/node/sas.scss" "/home/none/Documents/projects/node/#testas.scss#" "~/.emacs.d/init.el" "/home/none/Documents/projects/node/main.js" "~/.emacs.d/init.el" "/home/none/Documents/projects/node/css/main.css" "~/.emacs.d/init.el" "/home/none/.emacs.d/init.el" "~/.emacs.d/init.el" "/home/none/.emacs.d/init.el" "~/.emacs.d/init.el" "/home/none/.emacs.d/init.el" "/home/none/Documents/projects/node/labas.txt" "~/.emacs" "~/Documents/projects/node/testas.scss" "~/Documents/projects/node/something.css" "~/.emacs" "~/.emacs.d/elpa/emmet-mode.el" "~/.emacs" "~/Documents/projects/node/" "~/Documents/projects/node/shabang.js" "~/.emacs" "~/Documents/projects/node/index.html"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
 (desktop-create-buffer 208
-  "/home/none/.emacs"
-  ".emacs"
-  'emacs-lisp-mode
-  '(linum-mode auto-complete-mode)
-  1932
-  '(2086 nil)
+  "/home/none/Documents/projects/node/css/main.css"
+  "main.css"
+  'css-mode
+  '(company-mode linum-mode emmet-mode)
+  348
+  '(345 nil)
   nil
   nil
   '((buffer-file-coding-system . undecided-unix))
-  '((mark-ring (1970 2008 2007 1949 1897 1897 1897 1168 277 1802 1897 1897 1897 1897 1897 1932))))
+  '((mark-ring (348 344 348 348 344 348 348 348 348 348 345 348 348 345 345 348))))
 
 (desktop-create-buffer 208
+  "/home/none/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(company-mode linum-mode)
+  277
+  '(3113 nil)
   nil
-  "node"
-  'dired-mode
-  '(linum-mode)
-  224
-  '(nil nil)
-  t
-  '("/home/none/Documents/projects/node/")
   nil
-  '((mark-ring nil)))
+  '((buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring (4690 4648 4690 4690 4690 277 277 4690 277 277 277 3113 3853 4542 4543 4542))))
+
+(desktop-create-buffer 208
+  "/home/none/Documents/projects/node/main.js"
+  "main.js"
+  'js2-mode
+  '(company-mode linum-mode js2-imenu-extras-mode)
+  269
+  '(469 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (469 469 469 469 469 469 469 469 469 469 444 469 469 469 469 269))))
+
+(desktop-create-buffer 208
+  "/home/none/Documents/projects/node/labas.txt"
+  "labas.txt"
+  'text-mode
+  '(company-mode linum-mode)
+  50
+  '(50 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (50 50 50 50 50 50 1 1 1 1 1 1 1 1 1 50))))
 
 (desktop-create-buffer 208
   "/home/none/Documents/projects/node/index.html"
   "index.html"
   'html-mode
-  '(linum-mode emmet-mode auto-complete-mode)
-  449
-  '(449 nil)
+  '(company-mode linum-mode emmet-mode)
+  450
+  '(75 nil)
   nil
   nil
   '((buffer-file-coding-system . utf-8-unix))
-  '((mark-ring (449 449 449 449 449 449 443 443 449 449 449 449 449 449 449 141))))
+  '((mark-ring (75 24 24 1 1 272 272 229 213 1 238 213 1 238 222 450))))
 
 (desktop-create-buffer 208
-  "/home/none/Documents/projects/node/shabang.js"
-  "shabang.js"
-  'js2-mode
-  '(linum-mode js2-imenu-extras-mode auto-complete-mode)
-  663
-  '(347 nil)
   nil
+  "css"
+  'dired-mode
+  '(company-mode linum-mode)
+  225
+  '(nil nil)
+  t
+  '("/home/none/Documents/projects/node/css/")
   nil
-  '((buffer-file-coding-system . utf-8-unix))
-  '((mark-ring (397 397 3 3 57 3 28 41 3 26 74 26 397 184 397 397))))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "node"
+  'dired-mode
+  '(company-mode linum-mode)
+  277
+  '(596 nil)
+  t
+  '("/home/none/Documents/projects/node/")
+  nil
+  '((mark-ring (1006 927 278 277 1172 648 545 277))))
 
