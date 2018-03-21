@@ -4,21 +4,24 @@
 (
  ("/home/none/Documents/projects/node/" . "css/")
  ("/home/none/.emacs.d/elpa/" . "s-20180227.51/")
- ("/home/none/.emacs.d/" . "elpa/")
+ ("/home/none/.emacs.d/" . "el_packages/")
  ("/home/none/" . ".emacs.d/")
  ("/home/" . "none/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/none/Documents/projects/node/css/"
  "/home/none/Documents/projects/node/"
- "/home/none/"
+ "/home/none/.emacs.d/el_packages/"
  "/home/none/.emacs.d/"
+ "/home/none/Documents/projects/node/css/"
+ "/home/none/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "mano-keys.el"
+ "keybinding.el"
  "main.js"
  ".profile"
  "init.el"
@@ -30,13 +33,15 @@
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/none/Documents/projects/node/css/" (23215 61273 241398 2000) "../" "main.css" ".#main.css" "#main.css#" "./")
+ ("/home/none/.emacs.d/el_packages/" (23218 40939 501457 689000) "../" "mano-keys.el" "emmet-mode.el" "./")
 
- ("/home/none/.emacs.d/" (23215 33369 29017 847000) "ede-projects.el" "bookmarks" ".emacs.desktop" "elpa/" "auto-save-list/" "init.el~" "../" "ido.last" "el_packages/" "games/" "ac-comphist.dat" ".emacs.desktop.lock" "tutorial/" ".git/" "url/" "ido.last~" "init.el" "./")
+ ("/home/none/Documents/projects/node/" (23218 39655 607564 399000) "js.json~" "test.js" "something.html" "labas.txt" "../" ".#something.css" "js.json" "shabang.js" "index.html~" ".#testas.scss" "#labas.txt#" "css/" "server.js" "shabang.js~" "bb.txt" "something.html~" "naujas.css" "index.html" "testas.txt" "main.js" "#main.js#" "#index.html#" "./" "naujas.scss")
 
- ("/home/none/" (23215 24447 415876 272000) ".emacsBACKUP" ".steam/" ".npm/" ".vscode/" ".thumbnails/" "testas/" ".profile" ".swp" ".swo" "Pictures/" ".java/" ".nano/" "output_/" ".android/" ".thunderbird/" ".xscreensaver" ".ICEauthority" ".dbus/" ".sudo_as_admin_successful" "../" ".bash_logout" ".emacs.save" ".bashrc" ".pulse-cookie" "Documents/" "vim_mano/" ".xsession-errors" ".gtkrc-2.0" ".cache/" ".emacs.d/" "snap/" "atom-config/" ".gnome2_private/" ".bash_history" ".nvidia-settings-rc" ".purple/" ".Xauthority" ".macromedia/" ".gnupg/" ".mozilla/" "untitled.blend" ".godot/" "Public/" ".dmrc" "Downloads/" ".steampid" ".gitconfig" "Music/" "Desktop/" ".adobe/" "fontconfig/" ".fltk/" ".sqlite_history-" ".kde/" ".config/" ".gconf/" ".gnome2/" "Programs/" ".viminfo" ".emacs~" ".subversion/" ".atom/" ".xsession-errors.old" ".nv/" ".local/" ".python_history" ".node_repl_history" ".Xdefaults" "./" "Templates/" ".steampath" "Videos/" ".pki/" "node/")
+ ("/home/none/Documents/projects/node/css/" (23216 64871 980441 624000) "../" "main.css" ".#main.css" "#main.css#" "./")
 
- ("/home/none/Documents/projects/node/" (23215 27675 637893 68000) "js.json~" "test.js" "something.html" "labas.txt" "../" ".#something.css" "js.json" "shabang.js" "index.html~" ".#testas.scss" "#naujas.scss#" "css/" "server.js" ".#naujas.scss" "shabang.js~" "bb.txt" "something.html~" "naujas.css" "index.html" "testas.txt" "main.js" "./" "naujas.scss")
+ ("/home/none/.emacs.d/" (23216 51799 870942 424000) "ede-projects.el" "bookmarks" ".emacs.desktop" "elpa/" "auto-save-list/" "themes/" "init.el~" "../" "ido.last" "el_packages/" "games/" "ac-comphist.dat" ".emacs.desktop.lock" "tutorial/" ".git/" "url/" "ido.last~" "init.el" "./")
+
+ ("/home/none/" (23216 42646 898716 793000) ".emacsBACKUP" ".steam/" ".npm/" ".vscode/" ".thumbnails/" "testas/" ".profile" ".swp" ".swo" "Pictures/" ".java/" ".nano/" "output_/" ".android/" ".thunderbird/" ".xscreensaver" ".ICEauthority" ".dbus/" ".sudo_as_admin_successful" "../" ".bash_logout" ".emacs.save" ".bashrc" ".pulse-cookie" "Documents/" "vim_mano/" ".xsession-errors" ".gtkrc-2.0" ".cache/" ".emacs.d/" "snap/" "atom-config/" ".gnome2_private/" ".bash_history" ".nvidia-settings-rc" ".purple/" ".Xauthority" ".macromedia/" ".gnupg/" ".mozilla/" "untitled.blend" ".godot/" "Public/" ".dmrc" "Downloads/" ".steampid" ".gitconfig" "Music/" "Desktop/" ".adobe/" "fontconfig/" ".fltk/" ".sqlite_history-" ".kde/" ".config/" ".gconf/" ".gnome2/" "Programs/" ".viminfo" ".emacs~" ".subversion/" ".atom/" ".xsession-errors.old" ".nv/" ".local/" ".python_history" ".node_repl_history" ".Xdefaults" "./" "Templates/" ".steampath" "Videos/" ".pki/" "node/")
 
  ("/home/none/.emacs.d/elpa/s-20180227.51/" (23214 21072 733750 839000) "s-pkg.el" "s.el" "../" "s-autoloads.el" "./")
 

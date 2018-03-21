@@ -20,8 +20,10 @@
    ["#d2ceda" "#f2241f" "#67b11d" "#b1951d" "#3a81c3" "#a31db1" "#21b8c7" "#655370"])
  '(column-number-mode t)
  '(company-auto-complete nil)
+ '(company-dabbrev-char-regexp "\\sw")
  '(company-idle-delay 0)
  '(company-minimum-prefix-length 1)
+ '(company-search-regexp-function (quote company-search-flex-regexp))
  '(company-show-numbers t)
  '(css-indent-offset 2)
  '(custom-enabled-themes (quote (spacemacs-light)))
@@ -43,7 +45,7 @@
  '(package-hidden-regexps (quote ("\\`0blayoutrainbow")))
  '(package-selected-packages
    (quote
-    (expand-region company spacemacs-theme auto-complete json-mode minimap)))
+    (web-mode expand-region company spacemacs-theme auto-complete json-mode minimap)))
  '(scss-compile-at-save nil)
  '(scss-output-directory "css")
  '(scss-sass-command "node-sass")
@@ -94,24 +96,21 @@
 ;;(setq auto-save-default nil) ;;stop creating #autosave files
 
 
-(require 'js2-mode)
-(add-to-list 'auto-mode-alist '("\\.js\\'" . js2-mode))
-(add-hook 'js2-mode-hook #'js2-imenu-extras-mode)
-
-;; Keyboard shortcuts
-(global-set-key (kbd "M-1") 'ibuffer)
-(global-set-key (kbd "M-=") 'er/expand-region)
-(global-set-key (kbd "M--") 'er/contract-region)
-
 ;; Melpa archive
 ;;(require 'package)
 (add-to-list 'package-archives '("melpa" . "http://melpa.org/packages/"))
 ;;(package-refresh-contents)
 
+(require 'js2-mode)
+(add-to-list 'auto-mode-alist '("\\.js\\'" . js2-mode))
+(add-hook 'js2-mode-hook #'js2-imenu-extras-mode)
+
+
+
 (add-to-list 'load-path "~/.emacs.d/el_packages/")
 (require 'emmet-mode)
 (add-hook 'html-mode-hook 'emmet-mode)
-(add-hook 'css-mode-hook 'emmet-mode)
+;(add-hook 'css-mode-hook 'emmet-mode)
 (add-hook 'sqml-mode-hook 'emmet-mode)
 
 (ido-mode 1)
@@ -129,3 +128,6 @@
 
 ;;THEME
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
+
+(require 'mano-keys)
+
